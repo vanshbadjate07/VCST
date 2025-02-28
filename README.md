@@ -2,10 +2,10 @@
 
 ## **Team Members**
 
-1. **Vansh Badjate** (Created repository, added addition feature)
-2. **Gopal Dhok** (Added subtraction feature)
-3. **Aditya Hon** (Added multiplication feature)
-4. **Vaishnavi Nikumbh** (Added division feature, first to push)
+1. **Vansh Badjate** (Created repository, added addition feature, worked on README file)
+2. **Gopal Dhok** (Added subtraction feature, worked on script.js)
+3. **Aditya Hon** (Added multiplication feature, worked on index.html)
+4. **Vaishnavi Nikumbh** (Added division feature, first to push, worked on style.css)
 
 ## **Project Workflow**
 
@@ -60,7 +60,13 @@
   git push origin main
   ```
 
-### **5. Final Resolution**
+### **5. Website Creation**
 
-- One by one, each user merged their changes.
-- Finally, the conflict was resolved, and the `Hello.java` file contained all features successfully.
+- The team decided to create a simple website.
+- Work was distributed among members:
+  - **Aditya**: Worked on `index.html`
+  - **Gopal**: Worked on `script.js`
+  - **Vaishnavi**: Worked on `style.css`
+  - **Vansh**: Worked on `README.md`
+- Each member pushed their respective files in their own branches.
+- After reviewing, all files were merged into the `main` branch.
