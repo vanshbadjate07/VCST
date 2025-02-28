@@ -1,5 +1,7 @@
 class Hello{
     public static void main(String args[]){
-        System.out.println("Hello world");
+        int a =20;
+        int b =30;
+        System.out.println("Multipication is:"+(a*b));
     }
 }
