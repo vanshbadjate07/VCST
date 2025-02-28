@@ -1,5 +1,7 @@
 class Hello{
     public static void main(String args[]){
-        System.out.println("Hello world");
+        int a = 10;
+        int b = 10;
+        System.out.println("Addition of "+a+" & "+b+" is "+(a+b));
     }
 }
