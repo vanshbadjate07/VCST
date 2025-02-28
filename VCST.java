@@ -12,13 +12,14 @@ public class VCST {
         System.out.print("Enter the second number: ");
         int num2 = scanner.nextInt();
         
-        // Perform addition
-        int sum = num1 + num2;
+        // Perform multiplication
+        int product = num1 * num2;
         
         // Display the result
-        System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
+        System.out.println("The product of " + num1 + " and " + num2 + " is: " + product);
         
         // Close the scanner
         scanner.close();
     }
 }
+
